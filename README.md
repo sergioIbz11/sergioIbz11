@@ -58,11 +58,11 @@ Desarrollador de software **mobile y backend** de Colombia 🇨🇴. Construyo p
 <div align="center">
 
 <a href="https://apps.apple.com/co/developer/sergio-ibanez/id6791403549" target="_blank">
-  <img height="54" src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store"/>
+  <img height="54" width="162" src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/dev?id=8379074915630613861" target="_blank">
-  <img height="54" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play"/>
+  <img height="54" width="182" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play"/>
 </a>
 
 </div>
